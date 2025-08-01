@@ -58,7 +58,8 @@ Sistema integral para gestión de inventarios y productos
 ## 📫 Conecta conmigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BreynerSti)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:breinerstiven85@gmail.com)
+
+📧 Email: breinerstiven85@gmail.com
 
 ---
 
