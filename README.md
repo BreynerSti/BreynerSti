@@ -37,7 +37,7 @@ Aplicación web para gestión personal de tareas
 - **Tecnologías:** Laravel, PHP, MySQL, Tailwind CSS
 - **Características:** CRUD de tareas, autenticación de usuarios, interfaz moderna
 
-### 📦 [Sistema de Inventario](https://github.com/BreynerSti/Sistema-Inventario)
+### 📦 [Sistema de Inventario](https://github.com/BreynerSti/sistema-inventario-api)
 Sistema integral para gestión de inventarios y productos
 - **Tecnologías:** Laravel 12, PHP 8.2, MySQL, Laravel Sanctum
 - **Características:** Dashboard con métricas, API RESTful, gestión de categorías
