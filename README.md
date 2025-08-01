@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Breyner Stiven Guarín Arias
 
 ## 🚀 Sobre mí
-Ingeniero de Sistemas 2024 apasionado por el desarrollo web y la creación de soluciones tecnológicas. Me enfoco en construir aplicaciones web funcionales y con interfaces modernas, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
+Ingeniero de Sistemas 2025 apasionado por el desarrollo web y la creación de soluciones tecnológicas. Me enfoco en construir aplicaciones web funcionales y con interfaces modernas, siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
 
 ## 💻 Tecnologías que manejo
 
